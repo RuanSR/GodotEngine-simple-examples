@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/Run__007.png-d2bce39945496aee055edcad49b4e68a.stex"
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://assets/art/player/Run__007.png"
+dest_files=[ "res://.import/Run__007.png-d2bce39945496aee055edcad49b4e68a.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/Jump_Attack__008.png-6809626526636f735d408f2b13ab9097.stex"
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://assets/art/player/Jump_Attack__008.png"
+dest_files=[ "res://.import/Jump_Attack__008.png-6809626526636f735d408f2b13ab9097.stex" ]
 
 [params]
 

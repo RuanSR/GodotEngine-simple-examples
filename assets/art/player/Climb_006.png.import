@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/Climb_006.png-28afd7b6d15f723d96ffd49208322209.stex"
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://assets/art/player/Climb_006.png"
+dest_files=[ "res://.import/Climb_006.png-28afd7b6d15f723d96ffd49208322209.stex" ]
 
 [params]
 

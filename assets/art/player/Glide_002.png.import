@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/Glide_002.png-1e63feaadc38d7b678695c4e2ccffb22.stex"
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://assets/art/player/Glide_002.png"
+dest_files=[ "res://.import/Glide_002.png-1e63feaadc38d7b678695c4e2ccffb22.stex" ]
 
 [params]
 
